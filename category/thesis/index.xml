@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thesis | F. Kerem Ors</title>
+    <link>https://fkerem.github.io/category/thesis/</link>
+      <atom:link href="https://fkerem.github.io/category/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thesis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2023 F. Kerem Ors</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fkerem.github.io/media/icon_hu0f39ea9ea6731ac714460a1eddc06a30_35814_512x512_fill_lanczos_center_2.png</url>
+      <title>Thesis</title>
+      <link>https://fkerem.github.io/category/thesis/</link>
+    </image>
+    
+    <item>
+      <title>Data driven intrusion detection for 6LoWPAN based IoT systems</title>
+      <link>https://fkerem.github.io/publication/ors-data-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://fkerem.github.io/publication/ors-data-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
