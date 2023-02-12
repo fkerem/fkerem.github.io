@@ -5,7 +5,7 @@
     <link>https://fkerem.github.io/publication-type/1/</link>
       <atom:link href="https://fkerem.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2023 F. Kerem Ors</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2023 F. Kerem Ors</copyright><lastBuildDate>Mon, 22 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fkerem.github.io/media/icon_hu0f39ea9ea6731ac714460a1eddc06a30_35814_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -14,16 +14,16 @@
     
     <item>
       <title>One Key to Rule Them All: Secure Group Pairing for Heterogeneous IoT Devices</title>
-      <link>https://fkerem.github.io/publication/farrukh-one-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://fkerem.github.io/publication/farrukh-one-2022/</guid>
+      <link>https://fkerem.github.io/publication/farrukh-one-2023/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://fkerem.github.io/publication/farrukh-one-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scalable wi-fi intrusion detection for IOT systems</title>
+      <title>Scalable Wi-Fi Intrusion Detection for IoT Systems</title>
       <link>https://fkerem.github.io/publication/ors-scalable-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://fkerem.github.io/publication/ors-scalable-2021/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Event clustering within news articles</title>
       <link>https://fkerem.github.io/publication/ors-event-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>https://fkerem.github.io/publication/ors-event-2020/</guid>
       <description></description>
     </item>
