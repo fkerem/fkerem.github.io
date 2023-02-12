@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>F. Kerem Ors</title>
-    <link>https://fkerem.github.io/</link>
-      <atom:link href="https://fkerem.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>F. Kerem Ors</description>
+    <title>1 | F. Kerem Ors</title>
+    <link>https://fkerem.github.io/publication-type/1/</link>
+      <atom:link href="https://fkerem.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2023 F. Kerem Ors</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://fkerem.github.io/media/icon_hu0f39ea9ea6731ac714460a1eddc06a30_35814_512x512_fill_lanczos_center_2.png</url>
-      <title>F. Kerem Ors</title>
-      <link>https://fkerem.github.io/</link>
+      <title>1</title>
+      <link>https://fkerem.github.io/publication-type/1/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://fkerem.github.io/publication/farrukh-one-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://fkerem.github.io/publication/farrukh-one-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data driven intrusion detection for 6LoWPAN based IoT systems</title>
-      <link>https://fkerem.github.io/publication/ors-data-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://fkerem.github.io/publication/ors-data-2021/</guid>
       <description></description>
     </item>
     
@@ -41,14 +33,6 @@
       <link>https://fkerem.github.io/publication/ors-event-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://fkerem.github.io/publication/ors-event-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fkerem.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fkerem.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
